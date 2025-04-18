@@ -1,2 +1,2 @@
-# IA_em_A-o
+# Algoritmo_Alfa
 Grupo para entrega das atividades de IA
